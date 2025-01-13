@@ -1,6 +1,5 @@
-<img aling="right" src="https://github.com/satishjamle/satishjamle/blob/main/banner.gif" alt="">
+<img aling="right" src="https://github.com/satishjamle/satishjamle/blob/main/WhatsApp%20Image%202025-01-13%20at%2010.31.19%20PM.jpeg" alt="">
 
-<h1 align="center">Hi 👋, I'm Satish Jamle</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishjamle&label=Profile%20views&color=0e75b6&style=flat" alt="satishjamle" /> </p>
