@@ -10,6 +10,7 @@
 - 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **satishjamle513@gmail.com**
+<img align="right" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=82a1493b1pp60po0s2z6indmkuntsswpt35xgovq0q7723b8&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
