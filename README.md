@@ -1,4 +1,5 @@
-![logo](https://github.com/satishjamle/satishjamle/blob/main/1703771734206.gif)
+<img aling="right" src="https://github.com/satishjamle/satishjamle/blob/main/banner.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Satish Jamle</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 
